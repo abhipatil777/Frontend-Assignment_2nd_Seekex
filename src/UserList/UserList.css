@@ -1,0 +1,34 @@
+.Imgclass {
+    height: 125px;
+    padding-top: 10px;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 125px
+}
+
+.ImgDiv {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.title {
+    text-align: center;
+    cursor: pointer;
+    padding: 5px 0px;
+}
+
+.title:hover {
+    background-color: lightgray;
+    border-radius: 5px;
+}
+
+.DeleteBtn {
+    border-radius: 0 0 5px 5px;
+}
+
+.spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 25px;
+}
